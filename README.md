@@ -1,27 +1,44 @@
-# Projekt
+# AngularSPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+> Angular-based single-page application (SPA) demonstrating modern frontend development practices.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Build Status
 
-## Code scaffolding
+![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Frontend](https://img.shields.io/badge/frontend-Angular-red)
+![Language](https://img.shields.io/badge/language-TypeScript-blue)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF5733?logo=html5\&logoColor=white)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Description
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+AngularSPA is a single-page web application (SPA) built with **Angular 13**. It features a modular component-based architecture, responsive layouts, and dynamic frontend behavior. The project demonstrates common Angular concepts such as two-way data binding, routing, and reusable components.
 
-## Running unit tests
+It is intended as a learning project for Angular development and SPA design, showcasing clean code organization and frontend best practices.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## Features
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* Component-based architecture
+* Modular and reusable Angular components
+* Responsive UI with HTML & CSS
+* Dynamic data binding and interactivity
+* Routing between different views
+* Unit testing setup with Karma
+* End-to-end testing support
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Technology Stack
+
+* Angular 13
+* TypeScript
+* HTML & CSS
+* Angular CLI for scaffolding and build
+
+---
